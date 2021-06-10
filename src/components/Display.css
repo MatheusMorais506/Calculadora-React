@@ -1,0 +1,13 @@
+.display{
+    grid-column: span 4;
+    background-color: #505670;
+    display:flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 12px;
+    font-size: 2.8em;
+    overflow: hidden;
+    border: solid 0.1em #25294c;
+    border-top: solid 0.4em #25294c;
+    margin-top:0.5em;
+}
