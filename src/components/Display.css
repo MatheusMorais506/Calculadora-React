@@ -5,7 +5,8 @@
     justify-content: flex-end;
     align-items: center;
     padding: 12px;
-    font-size: 2.8em;
+    font-size: 2em;
+    font-weight: bold;
     overflow: hidden;
     border: solid 0.1em #25294c;
     border-top: solid 0.4em #25294c;
